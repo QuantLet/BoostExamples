@@ -1,0 +1,11 @@
+Name of QuantLet : 'XGBoost_Iris'
+
+Published in : 'BoostExamples' 
+
+Description : 'An example clustering Iris with XGBoost'
+
+Keywords : 'XGBoost , Iris'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Tue, Mar 5 2024
