@@ -1,0 +1,11 @@
+Name of QuantLet : 'ExampleG&H'
+
+Published in : 'BoostExamples' 
+
+Description : 'Showing the Gradient and Hessian over time of training'
+
+Keywords : 'XGBoost , Visualize'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Tue, Mar 5 2024
