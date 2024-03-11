@@ -1,0 +1,11 @@
+Name of QuantLet : 'AdaBoostOvertime'
+
+Published in : 'BoostExamples' 
+
+Description : 'Showing the boundary over time of training'
+
+Keywords : 'AdaBoost , Visualize'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Mon, Mar 4 2024
