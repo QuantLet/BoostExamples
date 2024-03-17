@@ -1,0 +1,11 @@
+Name of QuantLet : 'Boost-sin'
+
+Published in : 'BoostExamples' 
+
+Description : 'An example of predicting sin(x) with changing frequency.'
+
+Keywords : 'AdaBoost , Gradient Boost , XGBoost'
+
+Author : 'WK Haerdle Zuo Xiaorui'
+
+Submitted : Sun, Mar 17 2024
